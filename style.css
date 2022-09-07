@@ -1,0 +1,51 @@
+
+.service-head{
+    text-decoration: underline;
+    color: #608276;
+}
+.service{
+    color:#2e2045 ;
+    background-color: #bababa;
+}
+.Experience{
+    background-color: #5349ba;
+}
+.Experience-border{
+    
+    border-radius: 50%;
+}
+.Members{
+    background-color: #352e7d;
+
+}
+.Award{
+    background-color: #5349ba;
+}
+.recent-card{
+    background-color: lavender;
+}
+.donate{
+    text-decoration: underline;
+    color: #608276;
+}
+.recent{
+    text-decoration: underline;
+    color: #608276;
+}
+
+.seam{
+    text-decoration: underline;
+}
+.branch{
+    text-decoration: underline;
+    color: #608276;
+}
+.text{
+    color: #5b5b78;
+}
+.image{
+    height: 50%;
+}
+.slider{
+    max-height: 48rem;
+}
